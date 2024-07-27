@@ -1,0 +1,19 @@
+# My cool little lunbar styleing shit
+
+style=(hex)#292c3c
+  when wintouching=true then
+full-max
+else
+def
+
+# lunvertd
+boxdisplay=all
+
+# active app
+
+dis=window=active
+
+# plugins I have on the bar, some my own and some 3rd party ones!
+
+import@lunvertd
+import@accapp
